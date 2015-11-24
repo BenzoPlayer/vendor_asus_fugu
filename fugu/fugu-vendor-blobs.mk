@@ -17,6 +17,7 @@
 PRODUCT_COPY_FILES += \
     vendor/asus/fugu/proprietary/bin/BtFwLoader:system/bin/BtFwLoader \
     vendor/asus/fugu/proprietary/bin/houdini:system/bin/houdini \
+    vendor/asus/fugu/proprietary/bin/teeprov:system/bin/teeprov \
     vendor/asus/fugu/proprietary/etc/binfmt_misc/arm_dyn:system/etc/binfmt_misc/arm_dyn \
     vendor/asus/fugu/proprietary/etc/binfmt_misc/arm_exe:system/etc/binfmt_misc/arm_exe \
     vendor/asus/fugu/proprietary/etc/binfmt_misc/disable:system/etc/binfmt_misc/disable \
