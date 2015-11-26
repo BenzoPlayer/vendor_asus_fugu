@@ -1,4 +1,4 @@
-# Copyright (C) 2015 The CyanogenMod Project
+# Copyright (C) 2015 The PureNexus Project
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -193,7 +193,9 @@ PRODUCT_COPY_FILES += \
     vendor/asus/fugu/proprietary/lib/arm/nb/libz.so:system/lib/arm/nb/libz.so \
     vendor/asus/fugu/proprietary/lib/hw/hdmi_cec.fugu.so:system/lib/hw/hdmi_cec.fugu.so \
     vendor/asus/fugu/proprietary/lib/hw/keystore.moorefield.so:system/lib/hw/keystore.moorefield.so \
+    vendor/asus/fugu/proprietary/lib/libatv_audio.so:system/lib/libatv_audio.so \
     vendor/asus/fugu/proprietary/lib/libatv_uinputbridge.so:system/lib/libatv_uinputbridge.so \
+    vendor/asus/fugu/proprietary/lib/libaudiopolicymanager.so:system/lib/libaudiopolicymanager.so \
     vendor/asus/fugu/proprietary/lib/libDecoderVP9Hybrid.so:system/lib/libDecoderVP9Hybrid.so \
     vendor/asus/fugu/proprietary/lib/libdx_cc7.so:system/lib/libdx_cc7.so \
     vendor/asus/fugu/proprietary/lib/libgabi++-mfx.so:system/lib/libgabi++-mfx.so \
