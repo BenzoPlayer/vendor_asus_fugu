@@ -195,7 +195,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/fugu/proprietary/lib/hw/keystore.moorefield.so:system/lib/hw/keystore.moorefield.so \
     vendor/asus/fugu/proprietary/lib/libatv_audio.so:system/lib/libatv_audio.so \
     vendor/asus/fugu/proprietary/lib/libatv_uinputbridge.so:system/lib/libatv_uinputbridge.so \
-    vendor/asus/fugu/proprietary/lib/libaudiopolicymanager.so:system/lib/libaudiopolicymanager.so \
     vendor/asus/fugu/proprietary/lib/libDecoderVP9Hybrid.so:system/lib/libDecoderVP9Hybrid.so \
     vendor/asus/fugu/proprietary/lib/libdx_cc7.so:system/lib/libdx_cc7.so \
     vendor/asus/fugu/proprietary/lib/libgabi++-mfx.so:system/lib/libgabi++-mfx.so \
@@ -213,7 +212,6 @@ PRODUCT_COPY_FILES += \
     vendor/asus/fugu/proprietary/lib/libmixvbp_vc1.so:system/lib/libmixvbp_vc1.so \
     vendor/asus/fugu/proprietary/lib/libmixvbp_vp8.so:system/lib/libmixvbp_vp8.so \
     vendor/asus/fugu/proprietary/lib/libOMXVideoDecoderAVCSecure.so:system/lib/libOMXVideoDecoderAVCSecure.so \
-    vendor/asus/fugu/proprietary/lib/libremotecontrolservice.so:system/lib/libremotecontrolservice.so \
     vendor/asus/fugu/proprietary/lib/libsepdrm_cc54.so:system/lib/libsepdrm_cc54.so \
     vendor/asus/fugu/proprietary/lib/libstlport-mfx.so:system/lib/libstlport-mfx.so \
     vendor/asus/fugu/proprietary/usr/idc/virtual-remote.idc:system/usr/idc/virtual-remote.idc \
